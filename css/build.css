@@ -1,0 +1,16 @@
+.banner-container
+{
+overflow:hidden; width:100%;}
+.banner-container li
+{
+	overflow:hidden;cursor:pointer;
+z-index:9;
+list-style:none;}
+.clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
