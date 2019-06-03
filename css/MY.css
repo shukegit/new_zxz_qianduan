@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:700,400,300);
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.introduceLojoDiv {
+	height: 300px;
+	width: 300px;
+}
